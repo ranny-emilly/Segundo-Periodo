@@ -27,3 +27,18 @@ int main(){
     printf("O maior é %.2f", m);
 
 }
+
+//SINTAXE PARA PARÂMETROS STRUCTS
+//tipo nome(tipo_struct <parâmetro>){};
+
+//SINTAXE VETORES:
+//tipo nome(tipo <vet>[], int tam) {}
+//tipo nome (tipo <vet>[5]){}
+//tipo nome(tipo * <vet>, int tam){}
+
+//MATRIZES
+//tipo nome(tipo m[<>] [<tamanho 2>], int tam1);
+
+
+
+
