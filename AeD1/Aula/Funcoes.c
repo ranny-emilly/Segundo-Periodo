@@ -1,3 +1,5 @@
+// se eu quiser escrever uma função depois do main, devo declara-lá antes do main, mas posso passar os parâmetros depois do main
+//isso serve para não poluir a função principal com 20 < funções GRANDES (em softwares) maiores
 #include <stdio.h>
 #include <stdlib.h>
 
