@@ -5,6 +5,8 @@
 //estrtura: typedef struct{
 //}nome;
 
+//Posso criar uma struct e usar ela dentro de outra. Ex, struct endereço e usar dentro de pessoa, pois estão co-relacionadas;
+//Para usar endereço dentro de Pessoa, a struct endereço deve ser declarada ANTES de Pessoa.
 typedef struct{
     int idade;
     char sexo;
