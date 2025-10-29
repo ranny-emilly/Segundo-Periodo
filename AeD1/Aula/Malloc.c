@@ -21,5 +21,7 @@ int main()
     printf("x: %d\n", *x);
     *x = 50;
     printf("x: %d\n", *x);
+
+    free(x);
     return 0;
 }
